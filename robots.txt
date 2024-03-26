@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ja.ogi.page/sitemap.xml
